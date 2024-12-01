@@ -1,11 +1,7 @@
 # 🎵 Ambient Sound Mixer
 
 <div align="center">
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
+<img src="docs/images/Screenshot_31.png" alt="Ambient Sound Mixer Interface" width="600"/>
 </div>
 
 A modern and elegant ambient sound mixer for creating the perfect atmosphere. Mix multiple sounds with advanced effects for work, meditation, or relaxation.
