@@ -1,0 +1,13 @@
+pygame==2.5.0
+ttkbootstrap>=1.10.1
+pillow==10.0.0
+customtkinter==5.2.0
+tkinter
+numpy
+pydub
+
+# Development dependencies
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.0
